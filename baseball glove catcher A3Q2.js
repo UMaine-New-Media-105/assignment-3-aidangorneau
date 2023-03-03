@@ -31,3 +31,4 @@ function glove(x, y, rotat, size){
   ellipse(x, y - 10, 25, 10)
   //this function draws the glove and uses the variables rotat and size to change the gloves appearance when the mouse is pressed above
 }
+
