@@ -15,3 +15,4 @@ function glove(x, y){
   rotate(-40)
   ellipse(x, y - 10, 25, 10)
   
+  
