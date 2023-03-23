@@ -11,3 +11,6 @@ link for 3 - https://editor.p5js.org/aidan.gorneau/sketches/2lCJhCGmE
 
 question 4: for the forth part, we were tasked with making a sprite fall from the top of the canvas when the mouse was pressed. for my baseball, I made it fall from a random point along the top of the canvas when the mouse is clicked. I also added a boolean variable in order to check if the baseball was currently falling (ballFalling) or had touched the ground (groundY), in order to make the baseball reset and allow for it to fall again after touching the ground. 
 link for 4 - https://editor.p5js.org/aidan.gorneau/sketches/44hhbjd15
+
+question 5: for the fifth part, we were tasked with making the catcher sprite animate when it caught the falling sprite. for my game, I made a baseball that falls, and when it is caught by the glove controlled by the player, the glove changes colors and rotates to simulate a glove catching a ball. for extra credit, I also added a score in the corner which goes up when you catch a ball and goes down when you miss a ball. I made this by making a variable called "num" and assigning it to a text command, then increased "num" when the glove detected touching the ball, or decreased "num" when it didn't. 
+link for 5 - https://editor.p5js.org/aidan.gorneau/sketches/Px7phYqCD
